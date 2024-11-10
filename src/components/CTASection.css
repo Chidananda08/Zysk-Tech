@@ -1,0 +1,39 @@
+.cta {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .cta h3 {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .cta p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 30px;
+  }
+  
+  .cta-buttons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .cta-buttons button {
+    padding: 15px 30px;
+    border: none;
+    border-radius: 5px;
+    margin: 0 10px;
+    cursor: pointer;
+  }
+  
+  .btn-learn-more {
+    background-color: #f0f0f0;
+    color: #333;
+  }
+  
+  .btn-get-started {
+    background-color: #7f56d9;
+    color: #fff;
+  }

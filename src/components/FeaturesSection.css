@@ -1,0 +1,41 @@
+.features {
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  .features h2 {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .features p {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 40px;
+  }
+  
+  .feature-cards {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .feature-card {
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 300px; /* Adjust width as needed */
+    text-align: left;
+  }
+  
+  .feature-card h4 {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .feature-card p {
+    font-size: 16px;
+    color: #666;
+  }
